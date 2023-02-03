@@ -170,3 +170,5 @@ const calculate = ()=>
     p.innerHTML = totalamount;
 }
 input2.addEventListener('click',calculate);
+
+console.log('vishnu');
